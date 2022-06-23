@@ -14,14 +14,14 @@ Temas:
 
 # NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: N/A<br>
+**Conteúdo da Disciplina**: Grafos1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| [Ailton Aires Amado](https://github.com/ailtonaires) | 18/0011600 |
+| [Gustavo Duarte Moreira](https://github.com/gustavoduartemoreira) | 18/0011600 |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
