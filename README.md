@@ -1,18 +1,4 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Sala de aula
 
 **Número da Lista**: N/A<br>
 **Conteúdo da Disciplina**: Grafos1<br>
@@ -21,17 +7,18 @@ Temas:
 |Matrícula | Aluno |
 | -- | -- |
 | [Ailton Aires Amado](https://github.com/ailtonaires) | 18/0011600 |
-| [Gustavo Duarte Moreira](https://github.com/gustavoduartemoreira) | 18/0011600 |
+| [Gustavo Duarte Moreira](https://github.com/gustavoduartemoreira) | 20/0038141 |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste na simulação de uma sala de aula por meio de um labirinto onde o o aluno entra por uma estremidade da sala e deve percorrer o melhor caminho para oculpar o local designado. 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: python<br>
+**Framework**: N/A<br>
+
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
