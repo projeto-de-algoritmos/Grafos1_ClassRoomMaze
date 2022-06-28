@@ -10,11 +10,24 @@
 | [Gustavo Duarte Moreira](https://github.com/gustavoduartemoreira) | 20/0038141 |
 
 ## Sobre 
-O projeto consiste na simulação de uma sala de aula por meio de um labirinto onde o o aluno entra por uma estremidade da sala e deve percorrer o melhor caminho para oculpar o local designado. 
+O projeto consiste em um labirinto que foi alterado para se parecer com uma sala de aula onde é apontado para a pessoa o local vazio onde ela deve sentar, para verificar qual o melhor caminho a ser tomado são aplicados os algoritimos de busca em largura e profundidade. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+![Busca BFS](img/buscaBFS.png)
+Resultado da busca em largura realizada.
+
+![Busca dFS](img/buscaDFS.png)
+
+Resultado da busca em profundiade realizada.
+
+
+![Busca BFS](img/gifBFS.gif)
+Resultado da busca em largura realizada.
+
+![Busca dFS](img/gifDFS.gif)
+
+Resultado da busca em profundiade realizada.
 ## Instalação 
 **Linguagem**: python<br>
 **Framework**: N/A<br>
