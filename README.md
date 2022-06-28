@@ -29,6 +29,9 @@ Resultado da busca em largura realizada.
 
 Resultado da busca em profundiade realizada.
 
+![DFS X BFS](img/BFSXDFS.gif)
+
+Resultado da busca.
 
 ## Instalação 
 **Linguagem**: python<br>
@@ -54,7 +57,7 @@ Possuir o python3 instalado na máquina.
     python3  bfsXdfs.py
 ```
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
 
 
 
