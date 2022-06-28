@@ -31,7 +31,7 @@ Resultado da busca em profundiade realizada.
 
 ![DFS X BFS](img/BFSXDFS.gif)
 
-Resultado da busca.
+Resultado dfs x bfs.
 
 ## Instalação 
 **Linguagem**: python<br>
@@ -57,6 +57,9 @@ Possuir o python3 instalado na máquina.
     python3  bfsXdfs.py
 ```
 ## Outros 
+Observação: Os testes foram realizados em um computador com o sitema operacional UBUNTU 20.04.
+
+
 
 
 
