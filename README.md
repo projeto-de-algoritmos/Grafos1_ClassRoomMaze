@@ -1,4 +1,4 @@
-# Sala de aula
+# ClassRoomMaze
 
 **Número da Lista**: N/A<br>
 **Conteúdo da Disciplina**: Grafos1<br>
@@ -10,17 +10,12 @@
 | [Gustavo Duarte Moreira](https://github.com/gustavoduartemoreira) | 20/0038141 |
 
 ## Sobre 
-O projeto consiste em um labirinto alterado para se parecer com uma sala de aula onde é apontado para a pessoa o local vazio onde ela deve sentar, para verificar qual o melhor caminho a ser tomado são aplicados os algorítimos de busca em largura e profundidade. 
+O projeto consiste em um labirinto customizado para simular uma sala de aula com duas colunas e 4 assentos por coluna e 10 filas onde foi apontado um local vazio onde a pessoa deve sentar, para verificar qual o melhor caminho a ser tomado são aplicados os algorítimos de busca em largura e profundidade. 
 
 ## Screenshots
 
-![Busca BFS](img/buscaBFS.png)
-Resultado da busca em largura realizada.
-
-![Busca dFS](img/buscaDFS.png)
-
-Resultado da busca em profundiade realizada.
-
+![Busca BFS](img/maze.png)
+Labirinto customizado.
 
 ![Busca BFS](img/gifBFS.gif)
 Resultado da busca em largura realizada.
