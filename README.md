@@ -53,6 +53,7 @@ Possuir o python3 instalado na máquina.
 ```
 ## Outros 
 Observação: Os testes foram realizados em um computador com o sitema operacional UBUNTU 20.04.
+
 Os códigos foram adaptados a partir do canal no yotube Learning Orbis.
 
 
