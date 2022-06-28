@@ -10,7 +10,7 @@
 | [Gustavo Duarte Moreira](https://github.com/gustavoduartemoreira) | 20/0038141 |
 
 ## Sobre 
-O projeto consiste em um labirinto que foi alterado para se parecer com uma sala de aula onde é apontado para a pessoa o local vazio onde ela deve sentar, para verificar qual o melhor caminho a ser tomado são aplicados os algoritimos de busca em largura e profundidade. 
+O projeto consiste em um labirinto alterado para se parecer com uma sala de aula onde é apontado para a pessoa o local vazio onde ela deve sentar, para verificar qual o melhor caminho a ser tomado são aplicados os algorítimos de busca em largura e profundidade. 
 
 ## Screenshots
 
@@ -28,15 +28,31 @@ Resultado da busca em largura realizada.
 ![Busca dFS](img/gifDFS.gif)
 
 Resultado da busca em profundiade realizada.
+
+
 ## Instalação 
 **Linguagem**: python<br>
 **Framework**: N/A<br>
 
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+***Pre-requsitos***
+
+Possuir o python3 instalado na máquina.
+
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
+**Clonar o repositório**
+```
+    git clone https://github.com/projeto-de-algoritmos/Grafos1_ClassRoomMaze.git
+```
+**Entar o repositório**
+```
+    cd Grafos1_ClassRoomMaze/src
+```
+**Executar o comando**
+```
+    python3  bfsXdfs.py
+```
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
