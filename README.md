@@ -54,6 +54,11 @@ Possuir o python3 instalado na máquina.
 ## Outros 
 Observação: Os testes foram realizados em um computador com o sitema operacional UBUNTU 20.04.
 
+## Video
+
+![Video da apresentação](video/ClassRoomMaze.mp4)
+
+
 
 
 
